@@ -1,5 +1,6 @@
 # AskGoogle
-Automatically redirects to Google when an exception is thrown
+Automatically redirects to Google when an exception is thrown <br>
+Inspired by [Gary50613/askoverflow.js](https://github.com/Gary50613/askoverflow.js)
 
 ## Installation
 ```shell

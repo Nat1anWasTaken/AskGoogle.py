@@ -1,8 +1,8 @@
 import setuptools
 
 setuptools.setup(
-    name="AskGoogle",
-    version="1.0.0",
+    name="AskGoogle.py",
+    version="1.0.1",
     author="NathanTW0219",
     description="Automatically redirects to Google when an exception is thrown.",
     long_description=open('README.md').read(),
