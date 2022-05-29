@@ -9,7 +9,7 @@ $ pip install askgoogle
 
 ## Usage
 ```python
-import askgoogle.py
+import askgoogle
 
 # code everything you want!
 
