@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(
-    name="AskGoogle.py",
+    name="AskGoogle",
     version="1.0.2",
     author="NathanTW0219",
     description="Automatically redirects to Google when an exception is thrown.",
